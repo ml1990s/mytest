@@ -1,2 +1,3 @@
 #mytest
 A
+B
